@@ -4,6 +4,14 @@ A powerful Chrome Extension that generates comprehensive summaries for videos on
 
 Extension supports multiple learning platforms, specialized prompt management, auto-fill capabilities, and enhanced transcript extraction.
 
+## 🎬 Demo & Tutorial
+
+Xem video hướng dẫn cách cài đặt và sử dụng chi tiết tại đây:
+
+[![Watch the tutorial](https://img.youtube.com/vi/XaJvy6oIb6M/0.jpg)](https://youtu.be/XaJvy6oIb6M)
+
+*Nhấp vào hình ảnh trên để xem video hướng dẫn.*
+
 ## ✨ Key Features
 
 - **Multi-Platform Support**: Works seamlessly on:
