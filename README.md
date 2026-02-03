@@ -4,13 +4,13 @@ A powerful Chrome Extension that generates comprehensive summaries for videos on
 
 Extension supports multiple learning platforms, specialized prompt management, auto-fill capabilities, and enhanced transcript extraction.
 
-## 🎬 Demo & Tutorial
-
-Xem video hướng dẫn cách cài đặt và sử dụng chi tiết tại đây:
-
-[![Watch the tutorial](https://img.youtube.com/vi/XaJvy6oIb6M/0.jpg)](https://youtu.be/XaJvy6oIb6M)
-
-*Nhấp vào hình ảnh trên để xem video hướng dẫn.*
+## 📺 Video Demo & Tutorial
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=XaJvy6oIb6M">
+    <img src="https://img.youtube.com/vi/XaJvy6oIb6M/maxresdefault.jpg" alt="Hướng dẫn sử dụng Video Summary" style="width:100%; max-width:600px; border-radius: 10px;">
+    <p><i>Click to watch tutorial video</i></p>
+  </a>
+</div>
 
 ## ✨ Key Features
 
